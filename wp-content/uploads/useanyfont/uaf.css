@@ -1,0 +1,10 @@
+				@font-face {
+					font-family: 'porpora-regular';
+					src: url('/annaelle_emery_test/wp-content/uploads/useanyfont/8567Porpora-regular.woff2') format('woff2'),
+						url('/annaelle_emery_test/wp-content/uploads/useanyfont/8567Porpora-regular.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.porpora-regular{font-family: 'porpora-regular' !important;}
+
+		
